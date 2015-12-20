@@ -3,7 +3,8 @@ jQuery(document).ready(function($) {
 	// If we are in the correct page
 	if ($("#forth-systems").length) {
 
-		$.get( "/rawdata/Forth-Systems.md", function( data ) {
+		// $.get( "/rawdata/Forth-Systems.md", function( data ) { // on localhost
+		$.get( "/wiki/rawdata/Forth-Systems.md", function( data ) { // on GitHub
 
 			var parsedData = $(micromarkdown.parse(data));
 
