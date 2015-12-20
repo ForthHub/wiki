@@ -14,8 +14,8 @@ markdown: kramdown
 # GitHub data
 highlighter: pygments
 lsi: false
-#github: [Repository metadata] # comment this line in localhost
-#safe: true                    # comment this line in localhost
+github: [Repository metadata] # comment this line in localhost
+safe: true                    # comment this line in localhost
 
 # jekyll-github-metadata options
 repository: forthhub/wiki
