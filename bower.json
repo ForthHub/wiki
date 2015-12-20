@@ -1,0 +1,26 @@
+{
+  "name": "forthhub-wiki",
+  "homepage": "https://github.com/ForthHub/wiki",
+  "authors": [
+    "joseLuís <joseluis@andamira.net>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": "true",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dynatable": "~0.3.1"
+  },
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "urijs": "uri.js#~1.17.0"
+  }
+}

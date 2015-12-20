@@ -1,0 +1,47 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ // site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+
+      <div class="footer-col footer-col-1">
+		  <p>This is the frontend website for the <a/ href="https://github.com/ForthHub/wiki/wiki">ForthHub wiki</a></p>
+      </div>
+
+      <div class="footer-col footer-col-2">
+      </div>
+
+      <div style="text-align: right;" class="footer-col footer-col-3">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+
+      </div>
+
+  </div>
+
+  </div>
+
+</footer>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<script type="text/javascript" src="{{site.baseurl}}/vendor/jquery.min.js"></script>
+<script type="text/javascript" src="{{site.baseurl}}/vendor/jquery.dynatable.js"></script>
+<link rel="stylesheet" href="{{site.baseurl}}/vendor/jquery.dynatable.css">
+<script type="text/javascript" src="//simonwaldherr.github.io/micromarkdown.js/dist/micromarkdown.min.js"></script>
+<script type="text/javascript" src="{{site.baseurl}}/vendor/URI.min.js"></script>
+<script type="text/javascript" src="{{site.baseurl}}/vendor/jquery.URI.min.js"></script>
+<script type="text/javascript" src="{{site.baseurl}}/js/main.js"></script>
+

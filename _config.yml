@@ -1,0 +1,35 @@
+# Site settings
+title: ForthHub Wiki
+#email: your-email@domain.com
+#twitter_username: twitter_username
+github_username: forthhub
+description: > # this means to ignore newlines until "baseurl:"
+  This is the frontend website for the ForthHub wiki in GitHub.
+baseurl: "/wiki" # the subpath of your site, e.g. /blog
+url: "http://forthhub.github.io/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+# GitHub data
+highlighter: pygments
+lsi: false
+#github: [Repository metadata] # comment this line in localhost
+#safe: true                    # comment this line in localhost
+
+# jekyll-github-metadata options
+repository: forthhub/wiki
+
+gems:
+  - jekyll-github-metadata
+  - jemoji
+
+exclude:
+  - "bower_components"
+  - "bower.json"
+  - "node_modules"
+  - "package.json"
+  - "gulpfile.js"
+
+sass:
+  style: :compressed
