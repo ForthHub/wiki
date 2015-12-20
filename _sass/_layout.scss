@@ -248,16 +248,23 @@
 
 // File-Systems table
 .fs-table {
+	width: 100%;
 	margin: 20px 0 20px;
 	border-spacing: 0px;
 
-	background: #eaeaea;
-	border-top: 1px solid #bababa;
-	border-bottom: 1px solid #bababa;
+	background: #f5f5f5;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
 
-	tr:first-of-type {
-		background: #D4D4D4;
+	tr:first-child {
+		background: #eaeaea;
 		font-weight: bold;
+	}
+
+	tr:not(:first-child) {
+		td {
+			text-align: left !important;
+		}
 	}
 }
 

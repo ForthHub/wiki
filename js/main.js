@@ -57,12 +57,15 @@ jQuery(document).ready(function($) {
 
 			$( "#forth-systems" ).find("hr");
 
+
 			parsedData.closest("table").attr("class", "fs-table");
+
 			$('.fs-table').dynatable({
 				table: {
 					headRowSelector: 'tr:first-child'
 				}
 			});
+
 		});
 
 		/*
