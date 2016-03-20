@@ -4,9 +4,10 @@ Name / Link | Lang | CPU | Description
 [pijFORTHos](https://github.com/organix/pijFORTHos)|Assembly|ARM|Bare-metal FORTH operating system for Raspberry Pi
 [Swapforth](https://github.com/jamesbowman/swapforth)|Assembly|J1, FT900, x64|Cross-platform 32-bit ANS Forth
 [jonesforth](https://github.com/chengchangwu/jonesforth)|Assembly|x86|ANS FORTH version of jonesforth
+[forthright](https://github.com/niclash/forthright)|Assembly|ESP8266EX|Bare-metal Fork of JonesForth for ESP8266EX
+[JonesForth-arm](https://github.com/M2IHP13-admin/JonesForth-arm)|Assembly|ARM|ARM port of JonesForth
 [DCPU](https://github.com/hellige/dcpu)|Assembly|DCPU-16|Forth for Notch's DCPU-16
 [CoreForth](https://github.com/ekoeppen/CoreForth)|Assembly|ARM|Forth for the Cortex-M3
-[JonesForth-arm](https://github.com/M2IHP13-admin/JonesForth-arm)|Assembly|ARM|ARM port of JonesForth
 [DurexForth](https://github.com/jkotlinski/durexforth)|Assembly|6502|Modern C64 Forth
 [asforth](https://github.com/nfz/asforth)|Assembly|AVR|Subroutine threaded Forth for Atmega328
 [PETTIL](https://github.com/chitselb/pettil)|Assembly|6502|Forth for the Commodore PET 2001
