@@ -25,13 +25,14 @@ Name / Link | Lang | CPU | Description
 [FIG-Forth](https://github.com/ForthHub/FIG-Forth)|Forth|6502
 [sbc09 Forth](https://github.com/6809/sbc09)|Forth|6809
 [Easy Forth](https://github.com/skilldrick/easyforth)|JavaScript| |Small ebook for learning Forth
-[project-k](https://github.com/hcchengithub/project-k)|JavaScript| |Forth kernel in JavaScript
+[project-k](https://github.com/hcchengithub/project-k)|JavaScript,Python| |Forth kernel with only 'code' and 'end-code' in JavaScript and python
 [Sonnet](https://github.com/doy/sonnet)|Lua| |forth-like language interpreter, written in lua
 [forthlike](https://github.com/Omnifarious/forthlike)|Python| |A very simple Forth-like language implemented in Python
-[jeforth.3we](https://github.com/hcchengithub/jeforth.3we)|JavaScript| |jeforth 3 words engine
+[jeforth.3we](https://github.com/hcchengithub/jeforth.3we)|JavaScript| |JavaScript FORTH for HTA,HTML,Nodejs,NWjs,Chrome app, and Chrome extension top on project-k
 [pForth](https://github.com/philburk/pforth)|C| |Portable Forth
 [Gforth](https://github.com/forthy42/gforth)|C| |Gforth mirror
 [staapl](https://github.com/zwizwa/staapl)|Racket|PIC18|Racket-based Forth / Macro Assembler on steroids for PIC18F
 [uForth](https://github.com/tcoram/uforth)|C| |Very portable (embeddable) switch threaded Forth
 [rtForth](https://github.com/chengchangwu/rtforth)|Rust| |Forth implemented in Rust for realtime application
 [BIG-INTEGER-ANS-FORTH](https://github.com/Lehs/BIG-INTEGER-ANS-FORTH)|Forth| |Calculating with dynamic integers in Forth
+[peforth](https://github.com/hcchengithub/peforth)|Python| |Python FORTH top on project-k
