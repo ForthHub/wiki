@@ -19,6 +19,7 @@ Name / Link | Lang | CPU | Description
 [CF430R](https://github.com/mikalus/CF430FR)|Assembly|MSP430|CamelForth for MSP430
 [lbForth](https://github.com/larsbrinkhoff/lbForth)|Forth|x86|Self-hosting metacompiled Forth, bootstrapping from a few lines of C
 [PicForth](https://github.com/samueltardieu/picforth)|Forth|PIC16|Forth cross-compiler for PIC16Fxxx
+[avrforth](http://krue.net/avrforth/)|Forth|AVR|Subroutine threaded Forth for Atmel AVR series
 [myforth-arduino](https://github.com/CharleyShattuck/myforth-arduino)|Forth|AVR|Simple, non-standard, tethered Forth for the Arduino
 [m3forth](https://github.com/oco2000/m3forth)|Forth|ARM|Cross-compiler for Cortex-M3
 [cmFORTH](https://github.com/ForthHub/cmFORTH)|Forth|NC4016
