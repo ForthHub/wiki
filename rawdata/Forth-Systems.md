@@ -37,3 +37,4 @@ Name / Link | Lang | CPU | Description
 [rtForth](https://github.com/chengchangwu/rtforth)|Rust| |Forth implemented in Rust for realtime application
 [BIG-INTEGER-ANS-FORTH](https://github.com/Lehs/BIG-INTEGER-ANS-FORTH)|Forth| |Calculating with dynamic integers in Forth
 [peforth](https://github.com/hcchengithub/peforth)|Python| |Python FORTH top on project-k
+[WAForth](https://github.com/remko/waforth)|WebAssembly| |Bootstrapping dynamic Forth Interpreter/Compiler for & in WebAssembly
